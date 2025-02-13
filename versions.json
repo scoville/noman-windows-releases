@@ -10,7 +10,7 @@
     "1.3.0": [
       "New login method (slack authorization)"
     ],
-    "v1.2.10": [
+    "1.2.10": [
       "Now redirects to the correct domain for each customer when clicking on meeting overview.",
       "There is now added sentry/Cloudwatch logging across the board for easier debugging. We didn't have any logs when customers were using the app before."
     ]
