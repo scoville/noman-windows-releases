@@ -1,0 +1,7 @@
+*/Add-AppDevPackage.resources
+*/TelemetryDependencies
+*/Dependencies/*
+!*/Dependencies/x64
+*/Add-AppDevPackage.ps1
+*/Install.ps1
+*/*.appxsym
